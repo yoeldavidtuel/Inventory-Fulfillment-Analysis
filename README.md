@@ -1,5 +1,6 @@
-# inventory-fulfillment-analysis
+# Inventory-Fulfillment-Analysis
 SQL analysis of order fulfillment rates, inventory value, and warehouse distribution for an electronics retailer - includes a real data quality fix.
+
 # Order Fulfillment & Inventory Performance Analysis
 
 An analysis of order fulfillment performance, inventory value by product category, and warehouse distribution for an electronics retail company, using SQL to answer business questions and surface data quality issues that could otherwise mislead decision-making.
